@@ -1,0 +1,19 @@
+#+TITLE: README file for advent of code repository
+#+AUTHOR: Nitish Pattanaik
+#+DESCRIPTION: readme by me to introduct people to this repository
+
+* Introduction
+- I'm completely a beginner in programming world.
+- I'm still learning all of these.
+- I'm here to practice my C programming. Hence I'll post all the solutions in C. (Or May be in C++, because they are related).
+- I'll document all the learnings in my website.
+- I'll post one blog for each day in ADVENT OF CODE.(Remember this is my first AOC challenge in 2023).
+- Just remember I'm a COMPLETE BEGINNER.
+
+
+* GOALS
+- Solve one puzzle a day.
+- Try to solve it and learn out of the process. Break down the problem in to small pieces and solve them one by one.
+- Try to document your learning process by writing a blog every day.
+- Take it as a challenge as well as a way to learn C programming.
+- Update your code in the GitHub repository.
